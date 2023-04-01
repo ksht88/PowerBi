@@ -1,2 +1,2 @@
 # PowerBi
-PowerBi and tableau Dashboards 
+HR Analytics Dashboard
